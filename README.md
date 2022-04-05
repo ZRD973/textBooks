@@ -1,4 +1,18 @@
+
+## Project Description
+
+```
+项目前后端分离  web前端，server后端；
+数据库创建textbooks，导入数据库；
+在后端server配置数据库，server/config/config.default.js
+分别运行项目，npm install        npm run serve
+```
+
+
+
+
 系统用户统一由 管理员 添加；管理员拥有所有权限；
+
 
 ## 首页 
 
