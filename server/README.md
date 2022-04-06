@@ -12,7 +12,7 @@ see [egg docs][egg] for more detail.
 
 ```bash
 $ npm i
-$ npm run dev
+$ npm run serve
 $ open http://localhost:7001/
 ```
 
